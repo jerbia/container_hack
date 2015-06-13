@@ -20,5 +20,5 @@ Try it out by running:
 
 ```docker run -v /var/run/docker.sock:/var/run/docker.sock jerbi/docker_cli```
 
-Outcome is that a user called "hacked" is created on your host....
+Outcome is that a user called 'hacked' is created on your host....
 
